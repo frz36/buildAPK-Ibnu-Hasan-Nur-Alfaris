@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ibnu_faris.snackd060b83f889d428baf2e142f5d650caf"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ca249e6-1d74-464a-bb44-1df56e3a2896"
+      }
     }
   }
 }
